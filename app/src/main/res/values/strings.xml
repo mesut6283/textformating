@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">textformating</string>
+
+    <string name="mytext1">
+       <![CDATA[
+<body style="text-align:justify;color:white;background-color:black;">
+
+<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong>A Workers Strike</strong></span></p>
+<p style=\"text-align: justify;\"><span style=\"color: #ff0000;\"><strong><em>Masako</em></strong>:</span> I think we should strike. We need to force management to listen to our <strong><u>grievances</u></strong>.</p>
+<p style="text-align: justify;"><span style="color: #ff0000;"><strong><em>Salvador</em></strong>:</span> <strong><u>Hold on</u></strong>. I think you&rsquo;re being too <strong><u>hasty</u></strong>. It&rsquo;s up to our union to call a strike, not the workers.</p>
+<p style="text-align: justify;"><span style="color: #ff0000;"><strong><em>Masako</em></strong>:</span> I&rsquo;m not suggesting a formal strike, but we could organize a <strong>sickout</strong>. That would send a message that we mean business.</p>
+<p style="text-align: justify;"><strong><em>Salvador</em></strong><em>:</em> yeah, but that may also <strong>get their backs up</strong>. We need to give <strong>collective bargaining</strong> a chance to get us the contract we want.</p>
+<p style="text-align: justify;"><strong><em>Masako</em></strong>: The union has been negotiating for two months and things have <strong>stalled</strong>. We need to do something to <strong>put pressure on</strong> the company to <strong>come to our ter</strong>ms. At the very least, we should <strong>picket </strong>outside the building.</p>
+<p style="text-align: justify;"><strong><em>Salvador</em></strong>: We should only do that if there&rsquo;s a strike. We don&rsquo;t want to make employees feel like they&rsquo;re <strong>crossing the picket line</strong> every time they come to work. That would be bad for morale.</p>
+<p style="text-align: justify;"><strong>Masako</strong>:Nobody&rsquo;s going to feel like a <strong>scab</strong> if they all know why we&rsquo;re picketing. Let&rsquo;s call a meeting and see what everyone else thinks.</p>
+<p style="text-align: justify;"><strong>Salvador</strong>: You can do that if you want, but <strong>count me out</strong>. I&rsquo;m going to let the union do its job.</p>
+<p>Use the <a href="http://divtable.com/table-styler/" rel="nofollow noopener">free HTML table generator</a> to create the perfect spreadsheets for your website!</p>
+
+</body>
+]]>
+
+    </string>
+    <string name="mytext">
+        <![CDATA[
+<body style="text-align:justify;color:white;background-color:black;">
+
+<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong>A Workers Strike</strong></span></p>
+<p style="text-align: justify;"><span style=\"color: #ff0000;\"><strong><em>Masako</em></strong>:</span> I think we should strike. We need to force management to listen to our <strong><u>grievances</u></strong>.</p>
+<p style="text-align: justify;"><span style="color: #ff0000;"><strong><em>Salvador</em></strong>:</span> <strong><u>Hold on</u></strong>. I think you&rsquo;re being too <strong><u>hasty</u></strong>. It&rsquo;s up to our union to call a strike, not the workers.</p>
+<p style="text-align: justify;"><span style="color: #ff0000;"><strong><em>Masako</em></strong>:</span> I&rsquo;m not suggesting a formal strike, but we could organize a <strong>sickout</strong>. That would send a message that we mean business.</p>
+<p style="text-align: justify;"><strong><em>Salvador</em></strong><em>:</em> yeah, but that may also <strong>get their backs up</strong>. We need to give <strong>collective bargaining</strong> a chance to get us the contract we want.</p>
+<p style="text-align: justify;"><strong><em>Masako</em></strong>: The union has been negotiating for two months and things have <strong>stalled</strong>. We need to do something to <strong>put pressure on</strong> the company to <strong>come to our ter</strong>ms. At the very least, we should <strong>picket </strong>outside the building.</p>
+<p style="text-align: justify;"><strong><em>Salvador</em></strong>: We should only do that if there&rsquo;s a strike. We don&rsquo;t want to make employees feel like they&rsquo;re <strong>crossing the picket line</strong> every time they come to work. That would be bad for morale.</p>
+<p style="text-align: justify;"><strong>Masako</strong>:Nobody&rsquo;s going to feel like a <strong>scab</strong> if they all know why we&rsquo;re picketing. Let&rsquo;s call a meeting and see what everyone else thinks.</p>
+<p style="text-align: justify;"><strong>Salvador</strong>: You can do that if you want, but <strong>count me out</strong>. I&rsquo;m going to let the union do its job.</p>
+<p>Use the <a href="http://divtable.com/table-styler/" rel="nofollow noopener">free HTML table generator</a> to create the perfect spreadsheets for your website!</p>
+
+</body>
+]]>
+    </string>
+
+    <string name="hello">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:gray;background-color:black;">
+  Lorem ipsum dolor sit amet, consectetur
+  adipiscing elit. Nunc pellentesque, urna
+  nec hendrerit pellentesque, risus massa
+ </body>
+</html>
+]]>
+</string>
+</resources>
