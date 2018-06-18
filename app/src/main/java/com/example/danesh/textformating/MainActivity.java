@@ -16,7 +16,7 @@ import static android.text.Layout.JUSTIFICATION_MODE_INTER_WORD;
 
 public class MainActivity extends AppCompatActivity {
     TextView tv;
-
+public int i=1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
